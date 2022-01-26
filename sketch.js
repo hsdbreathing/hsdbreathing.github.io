@@ -1,8 +1,5 @@
 /**
  * @author Marius Lenzing
- * Display font only by drawing shapes surrounding the font without collisions.
- *
- * thanks to Ben Moren (p5.collide2d.js)
  */
 
 /**
